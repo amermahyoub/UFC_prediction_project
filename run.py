@@ -44,7 +44,7 @@ footer = dbc.Container(
         dbc.Col(
             html.P(
                 [
-                    html.Span('Created By: Amer Mahyoub', className='mr-2'), 
+                    html.Span('Created With💗By: Amer Mahyoub', className='mr-2'), 
                     html.A(html.I(className='fas fa-envelope-square mr-1'), href='mailto:ameralhomdy@gmail.com'), 
                     html.A(html.I(className='fab fa-github-square mr-1'), href='https://github.com/ameralhomdy/UFC-dataset.git'), 
                     html.A(html.I(className='fab fa-linkedin mr-1'), href='https://www.linkedin.com/in/amermahyoub/'), 
@@ -55,7 +55,7 @@ footer = dbc.Container(
         )
     )
 )
-
+  
 # For more explanation, see: 
 # Plotly Dash User Guide, URL Routing and Multiple Apps
 # https://dash.plot.ly/urls
