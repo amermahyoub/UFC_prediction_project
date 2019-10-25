@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "15895909cdc497eabc597b29b9855105584c9d04313e112983bc0f96ad09ec83"
+            "sha256": "850a8ba57b72db4034665200eb02bc9091c6a9df4049fac5b835dadb302c4f2b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -318,6 +318,16 @@
                 "sha256:e5f4a1f98b52b18a93da705a7458e55afb26f32bff83ff5d19189f92462d65c4"
             ],
             "version": "==0.16.0"
+        },
+        "xgboost": {
+            "hashes": [
+                "sha256:5ec073f6d68348784e9afdb831371fefb89de896d8eb58e79244ad05177c5753",
+                "sha256:898f26bb66589c644d17deff1b03961504f7ad79296ed434d0d7a5e9cb4deae6",
+                "sha256:b6274257114011588362f8287aad0b0732f1b92c9789b7e57ad0644a0480485e",
+                "sha256:d69f90d61a63e8889fd39a31ad00c629bac1ca627f8406b9b6d4594c9e29ab84"
+            ],
+            "path": "./xgboost-0.90-cp37-cp37m-win32.whl",
+            "version": "==0.90"
         }
     },
     "develop": {}
